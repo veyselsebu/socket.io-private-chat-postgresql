@@ -9,4 +9,4 @@ fill in the required fields that make up the pool object in the index.js for the
 node index.js 
 
  --open terminal  in the folder where the files are located
- --type node index.js in terminal
+and type node index.js in terminal

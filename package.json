@@ -1,0 +1,24 @@
+{
+  "name": "chat-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLastCodeBenders/socketio-chat-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheLastCodeBenders/socketio-chat-example/issues"
+  },
+  "homepage": "https://github.com/TheLastCodeBenders/socketio-chat-example#readme",
+  "dependencies": {
+    "express": "^4.10.2",
+    "pg": "^7.8.1",
+    "socket.io": "^1.5.1"
+  }
+}
